@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atlas_dept</string>
+    <string name="noToSearch">noToSearch</string>
+    <string name="noDept">num dept</string>
+    <string name="noRegion">num region</string>
+    <string name="nomDept">nom departement</string>
+    <string name="nomStdDept">nom standard</string>
+    <string name="areaDept">surface</string>
+    <string name="createdDateDept">date de creation</string>
+    <string name="capitalDept">chef-lieu</string>
+    <string name="urlDept">URL</string>
+</resources>
